@@ -1,0 +1,16 @@
+{
+  "name": "go-skills",
+  "version": "1.0.0",
+  "description": "Go backend framework skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/go-skills",
+  "repository": "https://github.com/full-statck-skills/go-skills",
+  "source": "./",
+  "skills": [
+    "./skills/gin-gonic",
+    "./skills/gin"
+  ]
+}

@@ -1,7 +1,7 @@
 ---
 name: gin
 description: Provides comprehensive guidance for Gin Go framework including routing, middleware, request handling, JSON binding, and API development. Use when the user asks about Gin, needs to create Gin applications, implement REST APIs, or build Go web services.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

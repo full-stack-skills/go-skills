@@ -1,7 +1,7 @@
 ---
 name: gin-gonic
 description: Provides comprehensive guidance for Gin-Gonic framework including routing, middleware, validation, and best practices. Use when the user asks about Gin-Gonic, needs to create Go web applications, or implement Gin patterns.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

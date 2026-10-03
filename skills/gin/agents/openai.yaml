@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gin"
+  short_description: "Gin Go framework including routing, middleware, request…"
+  default_prompt: "Use $gin to help with my current task: Provides comprehensive guidance for Gin Go framework including routing, middleware, request handling, JSON binding, and API development."

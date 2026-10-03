@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gin Gonic"
+  short_description: "Gin-Gonic framework including routing, middleware, validation…"
+  default_prompt: "Use $gin-gonic to help with my current task: Provides comprehensive guidance for Gin-Gonic framework including routing, middleware, validation, and best practices."
